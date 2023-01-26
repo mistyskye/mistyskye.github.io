@@ -1,0 +1,10 @@
+twitter:
+  id: 'mistyskye3d'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+youtube:
+  id: 'mistyskyeYT'
+  href: 'https://www.youtube.com/channel/UCQpKBH23oBWNwhwGf74QnJA'
+  title: 'Youtube'
+  fa-icon: 'fa-youtube-square'

@@ -1,8 +1,67 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: mistyskye's 3D VTuber creation zone
+description: A wiki containing info on my workflow, add-ons and tips and tricks to make the process easier and more fun!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://mistyskye.github.io/
+favicon_ico: "/images/favicon.ico"
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+nav_external_links:
+  - title: mistyskye on Twitter
+    url: https://twitter.com/mistyskye3D
+    hide_icon: false
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+color_scheme: dark
+
+exclude:
+ # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2023 mistyskye." 
+
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: 
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: mistyskye3d
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
