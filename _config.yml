@@ -5,10 +5,14 @@ theme: just-the-docs
 url: https://mistyskye.github.io/
 favicon_ico: "/images/favicon.ico"
 
-nav_external_links:
-  - title: mistyskye on Twitter
-    url: https://twitter.com/mistyskye3D
-    hide_icon: false
+# nav_external_links:
+#   - title: mistyskye on Twitter
+#     url: https://twitter.com/mistyskye3D
+#     hide_icon: false
+
+aux_links:
+  "mistyskye on Twitter":
+    - "//www.twitter.com/mistyskye3d"
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"

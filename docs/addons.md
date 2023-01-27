@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Addons
-nav_order: 2
+nav_order: 3
+
 ---
 
 ## Blender
