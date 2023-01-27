@@ -9,7 +9,7 @@ nav_order: 2
     site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 <ul>
 {% for year in postsByYear %}
-<li><a href="{{ site.url}}{{ page.url }}">{{ year.name }}</a></li>
+<li><a href="{{ site.url}}{{ page.url }}#{{ year.name }}">{{ year.name }}</a></li>
 {% endfor %}
 </ul>
 
