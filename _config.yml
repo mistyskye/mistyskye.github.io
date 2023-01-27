@@ -69,3 +69,6 @@ callouts:
   warning:
     title: Warning
     color: red
+
+ga_tracking: G-YMR6FZNW74
+ga_tracking_anonymize_ip: true
