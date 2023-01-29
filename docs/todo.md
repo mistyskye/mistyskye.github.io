@@ -13,13 +13,13 @@ List of things I want to add, change and finish on this website.
 - [ ] Add links to Addons.
 
 ## Pages
-- [ ] Modelling page.
-- [ ] Layout page.
+- [x] Modelling page.
+- [x] Layout page.
 - [ ] UV page.
 - [ ] Texture painting page.
-- [ ] Weight painting page.
+- [x] Weight painting page.
 - [ ] Shapekeys page.
-- [ ] Rendering page.
+- [x] Rendering page.
 - [ ] Unity page.
 - [ ] Exporting final files for client page.
 - [ ] Troubleshooting page.
