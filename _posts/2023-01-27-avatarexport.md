@@ -2,12 +2,12 @@
 layout: post
 title:  "Avatar Export"
 excerpt_separator: <!--more-->
-tags: export blender
+tags: ["export", "blender"]
 ---
 
 # Avatar Export workflow
 
-Generally, exporting avatars to Unity is tiresome, non-reproducible and destructive. I used to create a copy of my current blend file, apply all modifiers manually, select everything and export to fbx for Unity. If I had to change something in Blender, I had to go back into the original file, make my changes and then repeat the new file > apply > export cycle.
+Generally, exporting avatars from Blender for Unity is tiresome, non-reproducible and destructive. I used to create a copy of my current blend file, apply all modifiers manually, select everything and export to fbx for Unity. If I had to change something in Blender, I had to go back into the original file, make my changes and then repeat the new file > apply > export cycle.
 
 <!--more-->
 ## How to prep and export a model from Blender in just a few clicks

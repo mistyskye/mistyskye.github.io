@@ -1,4 +1,4 @@
-title: mistyskye's 3D VTuber creation zone
+title: mistyskye's 3D VTuber creation library
 description: A wiki containing info on my workflow, add-ons and tips and tricks to make the process easier and more fun!
 theme: just-the-docs
 
@@ -36,21 +36,6 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 footer_content: "Copyright &copy; 2023 mistyskye." 
-
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: 
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: mistyskye3d
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
 
 sass:
     sass_dir: _sass
