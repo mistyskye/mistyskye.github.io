@@ -14,13 +14,13 @@ parent: Workflow
 1. TOC
 {:toc}
 
-### Shortcuts
+## Shortcuts
 
 | Shortcut | Info |
 |--|--|
 | Q |  for quick favourites (see below)|
 
-### Quick favourites
+## Quick favourites
 - In Edit mode, right click Weight Paint and add to quick favourites. 
 - In Weight Paint mode, do the same to add Edit mode. 
 - Also, right click the brush and blur tools and add them to the quick favourites. 

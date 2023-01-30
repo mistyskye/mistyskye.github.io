@@ -10,7 +10,7 @@ Welcome to my homepage! This website contains information I've gathered on makin
 
 The sidebar will help you navigate my "permanent" [Workflow]({% link docs/workflow/workflow.md %}) pages: these are condensed compilations and lists of information, shortcuts, tips and tricks. 
 
-You will also find a blog-like page containing posts: these are more tutorial-oriented, and will guide you through certain sections of my workflow that I've optimised. You can find the list of these posts in the Tutorials page. They are also visible in the [Archive]({% link docs/tag.md %}), sorted by tags.
+You will also find a blog-like page containing posts: these are more tutorial-oriented, and will guide you through certain sections of my workflow that I've optimised, things I've learnt or just tidbits of information I like to keep organised. You can find the list of these posts in the Tutorials page. They are also visible in the [Archive]({% link docs/tag.md %}), sorted by tags.
 
 [View Tutorials]({% link docs/tutorials.md %}){: .btn .btn-purple }
 

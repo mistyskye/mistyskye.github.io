@@ -10,13 +10,13 @@ List of things I want to add, change and finish on this website.
 
 ## Changes
 - [ ] Add screenshots to tutorials.
-- [ ] Add links to Addons.
+- [x] Add links to Addons.
 
 ## Pages
 - [x] Modelling page.
 - [x] Layout page.
-- [ ] UV page.
-- [ ] Texture painting page.
+- [x] UV page.
+- [x] Texture painting page.
 - [x] Weight painting page.
 - [ ] Shapekeys page.
 - [x] Rendering page.

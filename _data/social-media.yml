@@ -2,9 +2,14 @@ twitter:
   id: 'mistyskye3d'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
+  fa-icon: 'fa-twitter'
 youtube:
   id: 'UCQpKBH23oBWNwhwGf74QnJA'
   href: 'https://www.youtube.com/channel/'
   title: 'Youtube'
-  fa-icon: 'fa-youtube-square'
+  fa-icon: 'fa-youtube'
+kofi:
+  id: 'mistyskye'
+  href: 'https://ko-fi.com/'
+  title: 'Ko-Fi'
+  fa-icon: 'fa-coffee'

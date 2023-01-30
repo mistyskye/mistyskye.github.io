@@ -14,13 +14,13 @@ parent: Workflow
 1. TOC
 {:toc}
 
-### Shortcuts
+## Shortcuts
 
 | Shortcut | Info |
 |--|--|
 | Ctrl + 0 |  to assign selected camera as render camera|
 
-### Turnaround camera
+## Turnaround camera
 Using the inbuilt add-on: "Animation: Turnaround Camera": 
 - Add a camera
 - Select an object to be the focus of the camera

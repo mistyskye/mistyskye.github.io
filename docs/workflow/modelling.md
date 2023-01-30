@@ -14,8 +14,8 @@ parent: Workflow
 1. TOC
 {:toc}
 
-### Shortcuts
-These are not the basic shortcuts (such as G, S, R), so if you are learning Blender, make sure you know the basics first. I've listed these here because they are shortcuts I use or want to use.
+## Shortcuts
+These are not the basic shortcuts (such as G, S, R), so if you are learning Blender, make sure you know the basics first. I've listed these here because they are shortcuts I use a lot, or want to use.
 
 | Shortcut | Info |
 |--|--|
@@ -34,15 +34,15 @@ These are not the basic shortcuts (such as G, S, R), so if you are learning Blen
 |Shift+W |bending|
 |Alt+B and drag |to hide part of an object in **Object Mode**|
 
-### Settings and add-ons
+## Settings and add-ons
 - Inbuilt add-on: "Add Mesh: Extra Objects" for Roundcube mesh (Object Mode: Shift+A > Mesh > Roundcube).
 - Inbuilt add-on: "Mesh: LoopTools" for Loop Relax and Loop Circle (Edit Mode: N panel > Edit > LoopTools).
 - Edit > Preferences > Keymap > 3D View > Check Tab for Pie Menu - this is entirely up to preference but I like being able to access any mode with just one button.
 
-### Using image references in Blender
+## Using image references in Blender
 - Press 1 on numpad, then go to your file browser and drag the image onto Blender.
 - In Object Data Properties, you can change it so that you can only see the image from the front, or back. You can also make it only visible in Orthographic view, and change the opacity.
 
-### General modelling tips
+## General modelling tips
 - Changing pivot points: Individual origins often comes in handy when transforming multiple meshes.
 
