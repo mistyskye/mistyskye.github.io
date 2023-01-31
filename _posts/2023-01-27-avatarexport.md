@@ -24,15 +24,18 @@ This method uses [Avatar builder](https://github.com/Mysteryem/AvatarBuilder) (f
 3) Settings: 
    - Uncheck `Ignore hidden objects` if you need some hidden things (such as toggles), or keep it checked and unhide everything you need.
    - Use `Reduce to two meshes` to keep the model file size down: shapekeys increase file size per vertex in the object so keeping them separate helps that.
+![](/assets/img/avatar-export-3.JPG){: .center-image}
 
 4) In each object's Object Settings:
    - Head and anything with shapekeys: 
      - Change `Modifiers` > `Apply modifiers` to `Apply with shapes (gret addon)`
-     - Vertex groups > uncheck `Remove non-deform`
+![](/assets/img/avatar-export-4-1.JPG){: .center-image}
    - Anything you want to keep separate for toggles or animating: 
      - Object > Check `Ignore 'Reduce to two meshes'`
      - Object > Change the `Built name` to the same name as another object to join them in the final export (such as all objects of a jacket to Jacket)
+![](/assets/img/avatar-export-4-2.JPG){: .center-image}
    - You can play with join order if the order of shapekeys and/or material slots is important to you. By default, leaving everything at 10 will mean that the object with the most shapekeys will be first.
+![](/assets/img/avatar-export-4-3.JPG){: .center-image}
 
 5) Click `Build Avatar`.
 

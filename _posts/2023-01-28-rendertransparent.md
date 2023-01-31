@@ -10,13 +10,13 @@ tags: ["render", "blender"]
 This is a quick step-by-step guide on how to render an animation with a transparent background using Blender.
 <!--more-->
 
-1) Render Properties > Film > Transparent.
+1) `Render Properties` > `Film` > `Transparent`.
 
 2) Render an animation as a PNG sequence with **RGBA**.
 
 3) Open a new Blender project with the Video Editor preset.
 
-4) Click Add > Image sequence and add your PNG images.
+4) Click `Add` > `Image sequence` and add your PNG images.
 
 5) Set the correct frame duration.
 
@@ -34,5 +34,6 @@ This is a quick step-by-step guide on how to render an animation with a transpar
 
 {: .note }
 
-In Blender Video Editor, if the scale of the video is too small:
-Bottom tab > Transform > set Scale to 1.
+In the Blender Video Editor, if the scale of the video is too small:
+Bottom tab > `Transform` > set `Scale` X and Y to 1.
+![](/assets/img/post-render-transp-scale.JPG){: .center-image}

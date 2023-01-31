@@ -9,7 +9,7 @@ nav_order: 10
 List of things I want to add, change and finish on this website.
 
 ## Changes
-- [ ] Add screenshots to tutorials.
+- [x] Add screenshots to tutorials.
 - [x] Add links to Addons.
 
 ## Pages
@@ -18,9 +18,9 @@ List of things I want to add, change and finish on this website.
 - [x] UV page.
 - [x] Texture painting page.
 - [x] Weight painting page.
-- [ ] Shapekeys page.
+- [x] Shapekeys page.
 - [x] Rendering page.
-- [ ] Unity page.
+- [ ] Unity page(s).
 - [ ] Exporting final files for client page.
 - [ ] Troubleshooting page.
 - [ ] Using VSeeFace guide page.

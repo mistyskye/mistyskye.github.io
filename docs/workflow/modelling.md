@@ -38,11 +38,13 @@ These are not the basic shortcuts (such as G, S, R), so if you are learning Blen
 - Inbuilt add-on: "Add Mesh: Extra Objects" for Roundcube mesh (Object Mode: Shift+A > Mesh > Roundcube).
 - Inbuilt add-on: "Mesh: LoopTools" for Loop Relax and Loop Circle (Edit Mode: N panel > Edit > LoopTools).
 - Edit > Preferences > Keymap > 3D View > Check Tab for Pie Menu - this is entirely up to preference but I like being able to access any mode with just one button.
+![](/assets/img/modelling-pie.jpg){: .center-image}
 
 ## Using image references in Blender
 - Press 1 on numpad, then go to your file browser and drag the image onto Blender.
 - In Object Data Properties, you can change it so that you can only see the image from the front, or back. You can also make it only visible in Orthographic view, and change the opacity.
+![](/assets/img/modelling-ref.jpg){: .center-image}
 
 ## General modelling tips
 - Changing pivot points: Individual origins often comes in handy when transforming multiple meshes.
-
+![](/assets/gif/modelling-origins.gif){: .center-image}

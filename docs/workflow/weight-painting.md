@@ -26,3 +26,4 @@ parent: Workflow
 - Also, right click the brush and blur tools and add them to the quick favourites. 
 - Finally, right click Paint Mask (top left next to Weight Paint) and add it to quick favourites.
 - Now when you're weight painting, you can quickly go to Edit Mode, select the vertices you want to mask, swap back to Weight Paint and mask them. You can then weight paint only on those vertices!
+![](/assets/gif/weight-painting-mask.gif){: .center-image}
