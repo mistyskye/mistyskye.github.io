@@ -62,3 +62,6 @@ callouts:
 #ga_tracking: G-YMR6FZNW74
 ga_tracking_anonymize_ip: true
 google_analytics: G-YMR6FZNW74
+
+mermaid:
+  version: "9.3.0"
