@@ -9,5 +9,5 @@ _site/
 .bundle/
 vendor/
 
-.sublime-project
-.sublime-workspace
+mistyskye-github.sublime-project
+mistyskye-github.sublime-workspace
