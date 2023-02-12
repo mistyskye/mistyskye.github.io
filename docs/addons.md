@@ -4,6 +4,8 @@ title: Addons
 nav_order: 3
 
 ---
+# Add-ons
+This is not an exhaustive list of add-ons, but a list of the add-ons I use and what I use them for.
 
 ## Blender
 

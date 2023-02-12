@@ -15,3 +15,6 @@ You will also find a blog-like page containing posts: these are more tutorial-or
 [View Tutorials]({% link docs/tutorials.md %}){: .btn .btn-purple }
 
 If you're anything like me, you see these awesome tutorials online and you take parts of them and integrate them into your workflow. Then, when you try to do it again one month later, you end up rewatching parts of various tutorials to try to patch back together what you did the first time. I ended up writing notes and getting lost in my pages of instructions for things I repeat, but not often enough to learn by heart. I also like having written notes so I can easily flip through to the part I've forgotten without having to find the video and rewatch it all. So here I've compiled it all, for me and for everyone else!
+
+I also really hate wasting time and energy on steps that can be automated or that are just tedious for software reasons (looking at you Unity). You can see below a fun level graph for each step of the workflow before I improved it. I made this for fun but it also highlights points that can be focused on, usually by using add-ons or applying new knowledge! It also explains why I have so many UV add-ons :D
+![](/assets/img/index-fun.JPG){: .center-image}

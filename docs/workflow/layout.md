@@ -26,3 +26,5 @@ parent: Workflow
 - To save your current layout as the default startup, File > Defaults > Save Startup File > Save Startup File (click twice to confirm). 
 - For example, I have added a Shapekeys tab with a specific window layout to streamline my shapekeys process.
 ![](/assets/img/layout-shapekeys.jpg){: .center-image}
+
+## Project organisation

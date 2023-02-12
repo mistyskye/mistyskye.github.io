@@ -48,3 +48,5 @@ These are not the basic shortcuts (such as G, S, R), so if you are learning Blen
 ## General modelling tips
 - Changing pivot points: Individual origins often comes in handy when transforming multiple meshes.
 ![](/assets/gif/modelling-origins.gif){: .center-image}
+
+## Hair
