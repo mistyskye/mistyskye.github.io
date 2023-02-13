@@ -20,6 +20,8 @@ parent: Workflow
 |--|--|
 | Right click | in Image Editor > Paint mode to get quick access to brush modes|
 | F | to quickly resize brush|
+| Shift+F | to change brush strength|
+|Right Click| using a brush to quickly access the brush modes|
 
 ## Draw tool
 Don't be afraid to check out the various brush settings in the `N` panel. In `Stroke`, you can change the stroke method to a straight line for example. You can also add "lazy stroke" a.k.a `Stabilize Stroke`. In `Falloff`, you can change the general shape of the strength falloff: hard edges vs soft edges.

@@ -23,7 +23,7 @@ parent: Workflow
 |Ctrl+F12| to Render animation|
 
 ## Settings
-My settings are the following:
+My settings are the following: (I have a 3060Ti)
 ### Render Properties:
 - `Render Engine`: `Cycles` (you can use Eevee but this will change other available settings).
 - `Device`: `GPU Compute` if you have a better GPU than CPU.

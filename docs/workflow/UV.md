@@ -15,7 +15,7 @@ parent: Workflow
 {:toc}
 
 ## Settings up seams
-This step is pretty manual since it requires you to think of where you want your model to be cut. Make sure you're in Edge select mode (`2`), and don't forget to `Alt+Click` to select loops to work faster, then Right Click and `Mark Seam`.
+This step is pretty manual since it requires you to think of where you want your model to be cut. Make sure you're in Edge select mode (`2`), and don't forget to `Alt+Click` to select loops to work faster, then `Right Click` and `Mark Seam`.
 
 ## UV unpacking
 Once you've set up your seams, go to the UV Editing tab for a better layout. Press `U` and click `Unwrap`. 

@@ -15,7 +15,9 @@ parent: Workflow
 {:toc}
 
 ## Introduction
-This page is for those who have no idea of the steps involved in making a 3D VTuber model, or who would like to learn more about certain steps.
+This page is for those who have no idea of the steps involved in making a 3D VTuber model, or who would like to learn more about how certain steps fit into the pipeline. The following diagram shows how each step flows into the next, and how some are independent of each other.
+
+Some steps don't *have* to be done after another but it may be highly recommended to do it in this order. For example, if you do expressions after tracking shapekeys, the expressions will also have the tracking built in.
 
 ```mermaid
 flowchart TD;

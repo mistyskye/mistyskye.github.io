@@ -23,7 +23,7 @@ If you'd like to contribute, DM me on [Twitter](https://twitter.com/mistyskye3D)
 - [Suvi](https://twitter.com/Suvidriel) - VSF tutorials, VNyan
 - [Shonzo](https://twitter.com/Shonzo_) - livestreams of the entire process
 
-## Acknowledgements/inspirations
+## Inspirations
 - [TheArtGun](https://twitter.com/TheArtGun)
 - [mads/ocuuda](https://twitter.com/ocuuda)
 - [Mari-3D](https://twitter.com/_Mari_Art)

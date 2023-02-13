@@ -15,7 +15,7 @@ parent: Workflow
 {:toc}
 
 ## Shortcuts
-These are not the basic shortcuts (such as G, S, R), so if you are learning Blender, make sure you know the basics first. I've listed these here because they are shortcuts I use a lot, or want to use.
+These are not the basic shortcuts (such as G, S, R), so if you are learning Blender, make sure you know the basics first. I've listed these here because they are shortcuts I use a lot, or struggle to remember.
 
 | Shortcut | Info |
 |--|--|
@@ -33,20 +33,22 @@ These are not the basic shortcuts (such as G, S, R), so if you are learning Blen
 |Shift+Ctrl+Alt+S |for shearing rotation (avoid cylinder squash)|
 |Shift+W |bending|
 |Alt+B and drag |to hide part of an object in **Object Mode**|
+| F3 | to search for any command in Blender!|
 
 ## Settings and add-ons
+[See add-ons here]({% link docs/addons.md %})
 - Inbuilt add-on: "Add Mesh: Extra Objects" for Roundcube mesh (Object Mode: Shift+A > Mesh > Roundcube).
 - Inbuilt add-on: "Mesh: LoopTools" for Loop Relax and Loop Circle (Edit Mode: N panel > Edit > LoopTools).
 - Edit > Preferences > Keymap > 3D View > Check Tab for Pie Menu - this is entirely up to preference but I like being able to access any mode with just one button.
 ![](/assets/img/modelling-pie.jpg){: .center-image}
 
 ## Using image references in Blender
-- Press 1 on numpad, then go to your file browser and drag the image onto Blender.
+- Press 1 on numpad to snap to the front facing view, then go to your file browser and drag the image directly onto Blender.
 - In Object Data Properties, you can change it so that you can only see the image from the front, or back. You can also make it only visible in Orthographic view, and change the opacity.
 ![](/assets/img/modelling-ref.jpg){: .center-image}
 
 ## General modelling tips
-- Changing pivot points: Individual origins often comes in handy when transforming multiple meshes.
+- Changing pivot points: Individual origins often comes in handy when transforming multiple meshes. In this clip, I show the use of Individual Origins vs Median Point on two cube meshes.
 ![](/assets/gif/modelling-origins.gif){: .center-image}
 
 ## Hair
