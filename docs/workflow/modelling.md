@@ -50,3 +50,7 @@ These are not the basic shortcuts (such as G, S, R), so if you are learning Blen
 ![](/assets/gif/modelling-origins.gif){: .center-image}
 
 ## Hair
+{: .d-inline-block }
+
+Coming soon 
+{: .label .label-yellow }

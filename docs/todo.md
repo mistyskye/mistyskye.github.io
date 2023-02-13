@@ -25,18 +25,18 @@ List of things I want to add, change and finish on this website.
 - [ ] Using VSeeFace guide page.
 - [ ] VTuber plus.
 - [ ] VNyan.
-- [ ] Credits page.
+- [x] Credits page.
 
 ## Blog posts
-- [ ] Unity import using Proxy bones post.
-- [ ] Unity animations tutorial post.
+- [ ] Unity import using Proxy bones post. (FelineEntity)
+- [ ] Unity animations tutorial post. (Suvi)
 - [ ] Unity blendshape copy tutorial.
 - [ ] Unity idle animations tutorial.
 - [ ] Shapekeys for ears tied to face tracking tutorial.
 - [ ] Render transparent bg with shadows and flat colour tutorial post.
 - [ ] Render wireframe + clay tutorial post.
 - [ ] UV hair unwrapping tutorial post.
-- [ ] Organising refs post.
+- [ ] Organising refs post (Allusion).
 - [ ] Add tears tutorial post.
 - [ ] Add mic reactive texture swaps tutorial post.
 - [ ] Wiggle Bone / Spring Bone Blender addon post.
