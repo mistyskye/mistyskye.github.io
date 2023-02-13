@@ -14,6 +14,8 @@ nav_order: 10
 {:toc}
 
 ## Contributors
+- [mistyskye](https://twitter.com/mistyskye3D)
+
 If you'd like to contribute, DM me on [Twitter](https://twitter.com/mistyskye3D)!
 
 ## Resources

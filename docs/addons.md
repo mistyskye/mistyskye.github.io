@@ -5,6 +5,14 @@ nav_order: 3
 
 ---
 # Add-ons
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 This is not an exhaustive list of add-ons, but a list of the add-ons I use and what I use them for.
 
 ## Blender
@@ -37,3 +45,11 @@ This is not an exhaustive list of add-ons, but a list of the add-ons I use and w
 | [Dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743)       | $20               | Better jiggle bone settings than VRM spring bones |
 | [MagicaCloth](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144)        | $25               | Cloth simulation                                  |
 | [Poiyomi](https://github.com/poiyomi/PoiyomiToonShader)            | Free / Pro at $10 | Shaders: toon, complex, animated, texture swaps   |
+
+
+## Other resources
+
+| Resource            | Price                      | How I use it                                                            |
+| ------------------- | -------------------------- | ----------------------------------------------------------------------- |
+|[Braids Generator](https://carls3d.gumroad.com/l/braids)|$18, or $10 on [Kofi as Member](https://ko-fi.com/carlsu/tiers)| Load it into Blender 3.3+ to make braids very quickly. Then convert to mesh and import into your normal project.|
+|[Allusion](https://allusion-app.github.io/)|Free|Reference image manager|

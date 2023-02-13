@@ -35,3 +35,18 @@ Organising your workspace is important to be able to work efficiently. Remember 
 
 Coming soon 
 {: .label .label-yellow }
+
+File structure
+
+## References
+I use [Allusion](https://allusion-app.github.io/) to organise my non-commission references. It's a visual library app that displays your local images and allows you to tag, organise and filter them.
+![](/assets/gif/allusion-demo3.gif){: .center-image}
+
+It also integrates smoothly with Pureref, which is great if you're already using that to refer from when making art!
+You can see my tag system below:
+<p align="middle">
+	<img src="/assets/img/layout-ref1.JPG"/>
+	<img src="/assets/img/layout-ref2.JPG"/>
+	<img src="/assets/img/layout-ref3.JPG"/>
+	<img src="/assets/img/layout-ref4.JPG"/>
+</p>

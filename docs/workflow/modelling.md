@@ -51,7 +51,7 @@ These are not the basic shortcuts (such as G, S, R), so if you are learning Blen
 - Changing pivot points: Individual origins often comes in handy when transforming multiple meshes. In this clip, I show the use of Individual Origins vs Median Point on two cube meshes.
 ![](/assets/gif/modelling-origins.gif){: .center-image}
 
-## Hair
+## Hair curves
 {: .d-inline-block }
 
 Coming soon 
